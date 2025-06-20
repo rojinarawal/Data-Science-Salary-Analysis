@@ -4,7 +4,6 @@ This project explores and analyzes a comprehensive dataset of Data Science-relat
 
 ## 📁 Dataset Overview
 
-The dataset used is:
 - 📅 Work years: 2020–2023
 - 💼 Job titles: 100+ unique roles
 - 🌍 Global: Includes data from multiple countries and continents
